@@ -1,0 +1,180 @@
+@media screen and (max-width:425px){
+
+.container
+{
+    padding: 5% !important;
+}
+
+.up
+{
+    display: none;
+}
+
+
+
+.slider
+{
+    display: none;
+}
+
+.magni-icon
+{
+    display: none;
+}
+
+h2
+{
+    font-size: 1.9em;
+    height: 168px;
+    margin-top: -30px;
+    background-size: 240px;
+    background-position-y: 77px;
+}
+
+.btn-start {
+    padding: 8px 20px;
+    font-family: 'sans-regular';
+    font-size: 15px;
+    margin-top: -20px;
+    height: 40px;
+}
+
+.call-us{
+    margin-top: 5px !important;
+    font-family: 'sans-regular';
+    font-size: 16px;
+}
+ 
+/* services */
+
+h3 {
+    font-size: 2.5em;
+    letter-spacing: 1px;
+    font-family: 'sans-xbold';
+}
+
+.service
+{
+    margin-top: 50px !important;
+}
+
+.stroke
+{
+    display: none;
+}
+ 
+.service-content
+{
+    display: flex;
+    flex-direction: column;
+    height: 1020px;
+}
+
+.picture
+{
+    width: 100% !important;
+}
+ 
+
+/* .picture
+{
+    width: 280px !important;
+} */
+
+
+.bybox
+{
+    display: none !important;
+}
+
+/* about */
+
+.about
+{
+    margin-top: 150px !important;
+}
+
+.about-img
+{
+    display: none;
+}
+
+.about-content
+{
+    height: 140px !important;
+}
+
+/* solutions */
+
+.solutions
+{
+    margin-top: 150px !important;
+}
+
+.box
+{
+    display: none;
+}
+
+.solutions-p
+{
+    line-height: 1.8em;
+}
+
+.pageCurrent p
+{
+    line-height: 1.8em;
+}
+
+.scrolling-content {
+    overflow: hidden;
+    /* width: 400px; */
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+/* subscribe */
+
+.subscribe
+{
+    margin-top: 50px !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.subscribe-box
+{
+    height: 170px !important;
+}
+
+.subscribe p
+{
+    font-family: 'sans-bold';
+    font-size: 20px !important;
+}
+
+.input-field {
+    width: 250px !important;
+}
+
+
+/* contact */
+
+.btn-send
+{
+    width: 100% !important;
+}
+
+.contact-add
+{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+footer
+{
+    font-size: 10px !important;
+}
+
+}
